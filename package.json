@@ -1,0 +1,22 @@
+{
+  "name": "vishal",
+  "version": "1.0.0",
+  "description": "basic react setup",
+  "main": "main.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrian Prieto",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^3.5.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1"
+  },
+  "devDependencies": {
+    "webpack": "^2.7.0"
+  }
+}
